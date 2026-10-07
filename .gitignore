@@ -1,0 +1,7 @@
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+secrets/
+private/
